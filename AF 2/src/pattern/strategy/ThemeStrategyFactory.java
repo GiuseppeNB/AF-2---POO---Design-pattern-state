@@ -1,4 +1,4 @@
-package src.pattern.strategy;
+package pattern.strategy;
 
 import java.util.HashMap;
 import java.util.Map;

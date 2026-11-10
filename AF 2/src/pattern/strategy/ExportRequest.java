@@ -1,4 +1,4 @@
-package src.pattern.strategy;
+package pattern.strategy;
 
 public class ExportRequest {
     private final String formatName;

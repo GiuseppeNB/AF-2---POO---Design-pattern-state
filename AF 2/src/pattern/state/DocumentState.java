@@ -1,4 +1,4 @@
-package src.pattern.state;
+package pattern.state;
 
 import model.DocumentContext;
 import pattern.strategy.ExportRequest;

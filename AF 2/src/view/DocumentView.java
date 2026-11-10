@@ -1,4 +1,4 @@
-package src.view;
+package view;
 
 import controller.DocumentController;
 import model.DocumentContext;

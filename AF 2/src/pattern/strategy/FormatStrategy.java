@@ -1,4 +1,4 @@
-package src.pattern.strategy;
+package pattern.strategy;
 
 public interface FormatStrategy {
     String format(String rawText);

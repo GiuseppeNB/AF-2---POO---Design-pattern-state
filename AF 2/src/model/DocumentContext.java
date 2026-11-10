@@ -1,4 +1,4 @@
-package src.model;
+package model;
 
 import pattern.state.DocumentState;
 import pattern.state.EditingState;

@@ -1,4 +1,4 @@
-package src.controller;
+package controller;
 
 import model.DocumentContext;
 import pattern.strategy.ExportRequest;

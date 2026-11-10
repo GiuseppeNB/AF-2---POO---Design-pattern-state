@@ -1,9 +1,9 @@
-package src.pattern.state;
+package pattern.state;
 
 import model.DocumentContext;
 import pattern.strategy.ExportRequest;
 import pattern.strategy.ExportResult;
-import src.pattern.state.DocumentState;
+import pattern.state.DocumentState;
 
 public class ExportedState implements DocumentState {
 
